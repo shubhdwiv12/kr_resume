@@ -1,0 +1,30 @@
+body{
+  font-family: 'Arapey', serif;
+}
+html {
+   scroll-behavior: smooth;
+}
+
+.row-content{
+  margin: 55px auto;
+  padding: 0px auto;
+}
+.image-1{
+  height: 600px;
+  background-image: url('src/img/image4.jpg');
+  background-size: cover;
+}
+.image-2{
+  height: 600px;
+  background-image: url('src/img/image5.jpg');
+  background-size: cover;
+}
+.image-3{
+  height: 600px;
+  background-image: url('src/img/image2.jpg');
+  background-size: cover;
+}
+.about{
+  border-bottom: 1px solid black;
+
+}
